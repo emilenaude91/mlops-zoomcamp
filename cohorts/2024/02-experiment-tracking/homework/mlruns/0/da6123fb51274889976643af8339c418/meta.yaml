@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/cohorts/2024/02-experiment-tracking/homework/mlruns/0/da6123fb51274889976643af8339c418/artifacts
+end_time: 1716649149803
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da6123fb51274889976643af8339c418
+run_name: blushing-trout-58
+run_uuid: da6123fb51274889976643af8339c418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716649130753
+status: 3
+tags: []
+user_id: ubuntu

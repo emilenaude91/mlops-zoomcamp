@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/cohorts/2024/02-experiment-tracking/homework/mlruns/0/8755889501394861abdb1f6eacd24b81/artifacts
+end_time: 1716649405721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8755889501394861abdb1f6eacd24b81
+run_name: clean-wasp-851
+run_uuid: 8755889501394861abdb1f6eacd24b81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716649386048
+status: 3
+tags: []
+user_id: ubuntu

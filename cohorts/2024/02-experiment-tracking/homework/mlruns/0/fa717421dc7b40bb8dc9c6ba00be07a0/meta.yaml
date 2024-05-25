@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/cohorts/2024/02-experiment-tracking/homework/mlruns/0/fa717421dc7b40bb8dc9c6ba00be07a0/artifacts
+end_time: 1716648984749
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa717421dc7b40bb8dc9c6ba00be07a0
+run_name: kindly-cat-815
+run_uuid: fa717421dc7b40bb8dc9c6ba00be07a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716648965898
+status: 3
+tags: []
+user_id: ubuntu

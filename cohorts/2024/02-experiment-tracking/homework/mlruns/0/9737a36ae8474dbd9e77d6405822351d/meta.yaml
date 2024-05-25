@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/cohorts/2024/02-experiment-tracking/homework/mlruns/0/9737a36ae8474dbd9e77d6405822351d/artifacts
+end_time: 1716649928673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9737a36ae8474dbd9e77d6405822351d
+run_name: casual-sponge-702
+run_uuid: 9737a36ae8474dbd9e77d6405822351d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716649904989
+status: 3
+tags: []
+user_id: ubuntu
